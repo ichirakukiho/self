@@ -1,0 +1,148 @@
+body {
+    font-family: DINNextRoundedLTPro-Medium,"FOT-筑紫A丸ゴシック Std B",sans-serif;
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  /* background-color: rgba(34, 49, 52, 0.9); */
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.row{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+}
+
+.container0 {
+  width: 100%;
+  /* padding: 0 15px; */
+  margin: 0 auto;
+  background-color: #FAE978;
+}
+
+.back {
+  background-color: #FAE978;
+  padding-top:100px;
+}
+
+
+
+.breadcrumb {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: .75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  /* background-color: #e9ecef; */
+  border-radius: .25rem;
+}
+
+.header-right {
+  display: inline;
+}
+
+.container1 {
+  width: 100%;
+  padding: 30px 30px 30px 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container2 {
+  width: 100%;
+  padding: 30px 30px 30px 30px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: lightskyblue;
+}
+
+.container4 {
+  width: 100%;
+  padding: 100px 30px 30px 30px;
+}
+
+.table thead th {
+  vertical-align: bottom;
+}
+
+.row1 {
+  display: -ms-flexbox;
+  display: flex;
+  ms-flex-wrap: wrap;
+  /* flex-wrap: wrap; */
+  /* margin-right: -15px; */
+  margin-bottom: 30px;
+  /* margin-left: -15px; */
+}
+
+.section-hero {
+  position: relative;
+  display: flex;
+}
+
+
+.center-block {
+  margin:0 auto
+}
+
+.table1 {
+  vertical-align: bottom;
+}
+
+.card1 {
+  padding-bottom: 50px;
+  margin: 0 auto;
+  position: static;
+}
+
+.keireki {
+  margin: 10px 30px 10px 30px;
+  background-color: whitesmoke;
+}
+
+.rireki {
+  padding: 30px 50px 0px 50px;
+  background-color: white;
+  margin-bottom: 30px;
+}
+
+.acsess {
+  padding-bottom: 30px;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+
+
+
+
+.list-sns {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
